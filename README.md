@@ -1,2 +1,3 @@
-# Negotium
-Old Unity3D game I created that has some useful Scripts and nice 3D art made in blender!
+# Unity3D-Scripts
+Scripts from a previous game created in Unity3D (5.x)
+Also had some pretty art that I created in Blender.
